@@ -17,6 +17,7 @@ Binary classification is a form of classification — the process of predicting 
 3.summarize observations by class label.<br>
 4.summarize first few examples.<br>
 5.plot the dataset and color the by class label
+```
 
 
 
@@ -24,6 +25,8 @@ Binary classification is a form of classification — the process of predicting 
 
 
 
+
+```
 
 
 
